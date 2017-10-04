@@ -1,0 +1,10 @@
+/Users/robbybourne/Projects/ffAPI/bin/Debug/netcoreapp2.0/ffAPI.deps.json
+/Users/robbybourne/Projects/ffAPI/bin/Debug/netcoreapp2.0/ffAPI.runtimeconfig.json
+/Users/robbybourne/Projects/ffAPI/bin/Debug/netcoreapp2.0/ffAPI.runtimeconfig.dev.json
+/Users/robbybourne/Projects/ffAPI/bin/Debug/netcoreapp2.0/ffAPI.dll
+/Users/robbybourne/Projects/ffAPI/bin/Debug/netcoreapp2.0/ffAPI.pdb
+/Users/robbybourne/Projects/ffAPI/obj/Debug/netcoreapp2.0/ffAPI.csproj.CoreCompileInputs.cache
+/Users/robbybourne/Projects/ffAPI/obj/Debug/netcoreapp2.0/ffAPI.AssemblyInfoInputs.cache
+/Users/robbybourne/Projects/ffAPI/obj/Debug/netcoreapp2.0/ffAPI.AssemblyInfo.cs
+/Users/robbybourne/Projects/ffAPI/obj/Debug/netcoreapp2.0/ffAPI.dll
+/Users/robbybourne/Projects/ffAPI/obj/Debug/netcoreapp2.0/ffAPI.pdb
