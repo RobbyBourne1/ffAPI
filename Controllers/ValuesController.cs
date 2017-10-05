@@ -27,7 +27,7 @@ namespace ffAPI.Controllers
             {
                 rawResponse = reader.ReadToEnd();
             }
-
+            Console.WriteLine(rawResponse);
             var OAuthLogin = JsonConvert.DeserializeObject<OAuthLogin>(rawResponse);
 
             var urlUser = "http://api.fantasy.nfl.com/v1/user/leagues?authToken=MTIzNCYxJjEyNjgwODg4NTY=";
